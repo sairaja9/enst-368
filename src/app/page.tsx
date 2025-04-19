@@ -1,4 +1,4 @@
-&quot;use client&quot;;
+"use client"
 
 import { useState } from &apos;react&apos;;
 
